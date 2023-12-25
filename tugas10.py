@@ -19,7 +19,7 @@ print('2.')
 buah2an = ['pepaya', 'mangga', 'pisang', 'durian', 'jambu']
 terbalik = buah2an[::-1]
 print(terbalik)
-print('-------------------------------------------------')
+print('--------------------------------------------------')
 
 print('3.')
 buah2an = ['pepaya', 'mangga', 'pisang', 'durian', 'jambu']
